@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+_st.log
+
+# Streamlit local settings & secrets
+.streamlit/secrets.toml
+
+# Large datasets exceeding GitHub's 100MB limit
+# (Kept locally, not uploaded to GitHub)
+cicids2017_cleaned.csv
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+S. No,Crime Type,Category,2016,2017,2018,2019,2020,2021,Percentage Share,Avg Loss Lakhs,Risk Level
+1,Phishing,Social Engineering,1450,1890,2340,2780,4120,4980,18.4,12.5,High
+2,Online Banking Fraud,Financial,2100,2650,3100,3650,5200,6100,22.6,28.4,High
+3,Identity Theft,Personal Data,780,920,1100,1350,1980,2450,9.1,8.2,Medium
+4,Ransomware,Malware,120,210,340,480,890,1120,4.1,45.6,High
+5,Hacking,Unauthorized Access,560,640,720,810,980,1150,4.3,15.8,High
+6,Cyber Stalking,Personal Safety,430,510,650,740,860,1020,3.8,1.2,Medium
+7,Credit Card Fraud,Financial,980,1210,1540,1780,2340,2760,10.2,9.7,High
+8,Data Theft,Personal Data,310,380,450,530,710,890,3.3,22.1,High
+9,Email Spoofing,Social Engineering,640,720,810,900,1050,1180,4.4,3.5,Low
+10,Website Defacement,Unauthorized Access,190,210,240,260,300,340,1.3,2.1,Low
+11,OTP Fraud,Financial,520,780,1120,1560,2450,3120,11.5,6.8,High
+12,Social Media Abuse,Personal Safety,870,1020,1280,1490,1760,2010,7.4,0.8,Medium
+13,ATM Skimming,Financial,210,180,160,140,110,90,0.3,4.2,Medium
+14,Cryptocurrency Fraud,Financial,40,90,180,320,560,840,3.1,38.9,High
+15,Fake Job Scam,Social Engineering,150,230,310,420,680,920,3.4,5.6,Medium
+16,SIM Swap Fraud,Financial,80,140,220,310,470,650,2.4,11.3,High
+17,Child Grooming Online,Personal Safety,90,110,130,150,180,210,0.8,0.0,High
+18,Malware Distribution,Malware,260,300,350,400,480,540,2.0,7.4,Medium
+19,Denial of Service,Unauthorized Access,70,90,110,130,160,190,0.7,18.2,Medium
+20,Online Shopping Fraud,Financial,690,850,1040,1280,1890,2340,8.7,4.9,Medium

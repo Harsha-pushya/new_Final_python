@@ -1,0 +1,21 @@
+S. No,Crime Type,Category,2016,2017,2018,2019,2020,2021,Percentage Share,Avg Loss Lakhs,Risk Level,Total_Cases,Mean_Yearly_Cases,Growth_2016_to_2021_pct,CAGR_5yr_pct,Loss_Band,Share_Rank,Category_Case_Share
+1,Phishing,Social Engineering,1450,1890,2340,2780,4120,4980,18.4,12.5,High,17560,2926.6666666666665,243.45,27.99,Medium loss,2.0,70.34
+2,Online Banking Fraud,Financial,2100,2650,3100,3650,5200,6100,22.6,28.4,High,22800,3800.0,190.48,23.77,High loss,1.0,38.36
+3,Identity Theft,Personal Data,780,920,1100,1350,1980,2450,9.1,8.2,Medium,8580,1430.0,214.1,25.72,Low loss,5.0,73.35
+4,Ransomware,Malware,120,210,340,480,890,1120,4.1,45.6,High,3160,526.6666666666666,833.33,56.32,High loss,10.0,67.47
+5,Hacking,Unauthorized Access,560,640,720,810,980,1150,4.3,15.8,High,4860,810.0,105.36,15.48,Medium loss,9.0,68.45
+6,Cyber Stalking,Personal Safety,430,510,650,740,860,1020,3.8,1.2,Medium,4210,701.6666666666666,137.21,18.86,Low loss,11.0,31.48
+7,Credit Card Fraud,Financial,980,1210,1540,1780,2340,2760,10.2,9.7,High,10610,1768.3333333333333,181.63,23.01,Low loss,4.0,17.36
+8,Data Theft,Personal Data,310,380,450,530,710,890,3.3,22.1,High,3270,545.0,187.1,23.48,Medium loss,13.0,26.65
+9,Email Spoofing,Social Engineering,640,720,810,900,1050,1180,4.4,3.5,Low,5300,883.3333333333334,84.38,13.02,Low loss,8.0,16.67
+10,Website Defacement,Unauthorized Access,190,210,240,260,300,340,1.3,2.1,Low,1540,256.6666666666667,78.95,12.34,Low loss,17.0,20.24
+11,OTP Fraud,Financial,520,780,1120,1560,2450,3120,11.5,6.8,High,9550,1591.6666666666667,500.0,43.1,Low loss,3.0,19.62
+12,Social Media Abuse,Personal Safety,870,1020,1280,1490,1760,2010,7.4,0.8,Medium,8430,1405.0,131.03,18.23,Low loss,7.0,62.04
+13,ATM Skimming,Financial,210,180,160,140,110,90,0.3,4.2,Medium,890,148.33333333333334,-57.14,-15.59,Low loss,20.0,0.57
+14,Cryptocurrency Fraud,Financial,40,90,180,320,560,840,3.1,38.9,High,2030,338.3333333333333,2000.0,83.84,High loss,14.0,5.28
+15,Fake Job Scam,Social Engineering,150,230,310,420,680,920,3.4,5.6,Medium,2710,451.6666666666667,513.33,43.73,Low loss,12.0,12.99
+16,SIM Swap Fraud,Financial,80,140,220,310,470,650,2.4,11.3,High,1870,311.6666666666667,712.5,52.04,Medium loss,15.0,4.09
+17,Child Grooming Online,Personal Safety,90,110,130,150,180,210,0.8,0.0,High,870,145.0,133.33,18.47,Low loss,18.0,6.48
+18,Malware Distribution,Malware,260,300,350,400,480,540,2.0,7.4,Medium,2330,388.3333333333333,107.69,15.74,Low loss,16.0,32.53
+19,Denial of Service,Unauthorized Access,70,90,110,130,160,190,0.7,18.2,Medium,750,125.0,171.43,22.1,Medium loss,19.0,11.31
+20,Online Shopping Fraud,Financial,690,850,1040,1280,1890,2340,8.7,4.9,Medium,8090,1348.3333333333333,239.13,27.67,Low loss,6.0,14.72
