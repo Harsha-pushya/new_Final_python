@@ -6,18 +6,8 @@ Theme: cybersecurity intelligence — network intrusions, cyber-crime types, sta
 
 Core loop: **Input data → Update CSV → Read / Analyze / View → Visualize**
 
-## Setup (Python 3.10+)
 
-```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-# source .venv/bin/activate
 
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 Open the URL Streamlit prints (usually http://localhost:8501). Use the sidebar to open each student's page.
 
