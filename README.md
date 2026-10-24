@@ -36,11 +36,6 @@ Landing page: `app.py`. Cross-domain write-up: `pages/5_Report.py`.
 
 Shared OOP: `lib/csv_manager.py` (`CSVManager`) extended by each student class in `lib/managers.py`.
 
-## Demo video / screenshots
-
-Add your 10–15 minute demo video link here after recording (each student demos their own CRUD + visualization):
-
-- Demo video: _add link_
 
 ## Notes
 
